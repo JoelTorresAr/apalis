@@ -1,0 +1,10 @@
+/Users/joeltorresfarro/Documents/Proyectos/RUST/Examples/push/target/debug/deps/libanstyle-85c5118431dd25ab.rmeta: /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/lib.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/macros.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/color.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/effect.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/reset.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/style.rs
+
+/Users/joeltorresfarro/Documents/Proyectos/RUST/Examples/push/target/debug/deps/anstyle-85c5118431dd25ab.d: /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/lib.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/macros.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/color.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/effect.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/reset.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/style.rs
+
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/lib.rs:
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/macros.rs:
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/color.rs:
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/effect.rs:
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/reset.rs:
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.4/src/style.rs:

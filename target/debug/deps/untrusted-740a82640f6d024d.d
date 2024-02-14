@@ -1,0 +1,10 @@
+/Users/joeltorresfarro/Documents/Proyectos/RUST/Examples/push/target/debug/deps/libuntrusted-740a82640f6d024d.rmeta: /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/lib.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/input.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/no_panic.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/reader.rs
+
+/Users/joeltorresfarro/Documents/Proyectos/RUST/Examples/push/target/debug/deps/libuntrusted-740a82640f6d024d.rlib: /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/lib.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/input.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/no_panic.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/reader.rs
+
+/Users/joeltorresfarro/Documents/Proyectos/RUST/Examples/push/target/debug/deps/untrusted-740a82640f6d024d.d: /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/lib.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/input.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/no_panic.rs /Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/reader.rs
+
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/lib.rs:
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/input.rs:
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/no_panic.rs:
+/Users/joeltorresfarro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/reader.rs:
